@@ -73,6 +73,4 @@ O aplicativo busca simplificar o controle financeiro pessoal por meio de convers
   ### O que aprendeu sobre conversar com IAs?
   Aprendi que conversar com IAs não é apenas pedir respostas, mas sim estruturar bem os prompts para guias melhor o resultado. Quando usamos um PRD (Product Requirements Document) como base, conseguimos transformar ideias em aplicações práticas.
 
-## 💬 Conclusão
 
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
