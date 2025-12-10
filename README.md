@@ -52,7 +52,12 @@ A proposta é que qualquer pessoa, independentemente de sua experiência ou cond
 
 ### Prints ou pequenos vídeos das interações com a IA.
 
+<img width="1000" height="560" alt="image" src="https://github.com/user-attachments/assets/4f68ee52-ca83-4db8-91b7-91f610065369" />
 
+<img width="1000" height="560" alt="image" src="https://github.com/user-attachments/assets/1d7a22e2-476a-4682-b259-819c5bd167e6" />
+
+
+<img width="1000" height="560" alt="image" src="https://github.com/user-attachments/assets/332bcd33-42a5-4318-a2bc-ac3f786e9900" />
 
 ### Um resumo do que o seu **App de Finanças Pessoais** faz.
 O aplicativo busca simplificar o controle financeiro pessoal por meio de conversas em linguagem natural, evitando formulários complexos ou planilhas.
